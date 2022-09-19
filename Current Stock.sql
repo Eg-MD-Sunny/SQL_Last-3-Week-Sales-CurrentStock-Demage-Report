@@ -1,5 +1,4 @@
 
-
 SELECT	w.MetropolitanAreaId [MetropolitanAreaID],
         w.Id [WarehousID],
 	    w.Name [Warehouse],
