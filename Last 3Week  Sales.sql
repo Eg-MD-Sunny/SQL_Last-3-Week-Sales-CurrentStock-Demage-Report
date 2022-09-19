@@ -1,5 +1,3 @@
-
-
 select  w.metropolitanAreaId,
         s.WarehouseId,
 	    w.Name warehosue,
